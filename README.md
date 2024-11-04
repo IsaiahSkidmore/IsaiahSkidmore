@@ -24,7 +24,7 @@ Here are a few projects I've been working on right now :
 - **[Spotify Stats](https://github.com/IsaiahSkidmore/Spotify-API)**: A website that will allow you to check your Spotify statistics and make playlists based on the music you listen to! Because who wants to wait for the Spotify wrapped, right?.
 
 ## Get In Touch 📫
-- [My Portfolio](https://main--jolly-paletas-380445.netlify.app/)
+- [My Portfolio](https://isaiahskidmore.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/isaiah-skidmore-7b52331a0/)
 - [Email](mailto:iskidmore0617@gmail.com)
 
