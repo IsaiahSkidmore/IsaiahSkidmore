@@ -17,7 +17,7 @@ I'm a **Full Stack Developer** with a passion for creating clean, efficient, and
 
 ## My Projects 🚀
 Here are a few projects I've been working on right now :
-- **[DNC List Application](https://github.com/IsaiahSkidmore/DNC-Bot)**: A tool to help manage phone numbers that are on the "Do Not Call" list.
+- **[DNC Bot Application](https://github.com/IsaiahSkidmore/dncBot-fullDatabase)**: A tool to help manage phone numbers that are on the "Do Not Call" list.
   
 - **[Zelda Soundboard] (NOT CREATED YET)**: A soundboard that makes different sounds from the Legends of Zelda Games.
   
