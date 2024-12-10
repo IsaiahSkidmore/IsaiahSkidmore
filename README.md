@@ -21,7 +21,7 @@ Here are a few projects I've been working on right now :
   
 - **[Zelda Soundboard] (NOT CREATED YET)**: A soundboard that makes different sounds from the Legends of Zelda Games.
   
-- **[Spotify Stats](https://github.com/IsaiahSkidmore/Spotify-API)**: A website that will allow you to check your Spotify statistics and make playlists based on the music you listen to! Because who wants to wait for the Spotify wrapped, right?.
+- **[Mist Games](https://github.com/haydencfb/mist-game)**: A website that allows you to search info about your favorite video games! You can add them to your Wishlist, Currently Playing List, or Completed Games List, so you can keep your friends up to date on your current gaming experiences!
 
 ## Get In Touch 📫
 - [My Portfolio](https://isaiahskidmore.netlify.app/)
